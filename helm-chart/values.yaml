@@ -3,6 +3,6 @@ backend:
   name: appli-dgz
   image: docker.io/rkaeffer/codelab-gitops-backend:1.0.0
   containerPort: 8080
-  host: *.codelab.cloud-sp.e
+  host: dgentaz-backend.codelab.cloud-sp.eu
   service:
     port: 443
